@@ -14,7 +14,7 @@
         Phone: +48 690 414 353
     </p>
     <p>
-        Email: <a href="mailto:mrode@net-te.ch">mrode@net-te.ch</a>
+        Email: <a href="mailto:admin@net-te.ch">admin@net-te.ch</a>
     </p>
     <p>
         Strona: {{ link_to(['for': 'home'], 'net-te.ch') }}
