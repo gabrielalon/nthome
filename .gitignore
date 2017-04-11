@@ -1,0 +1,9 @@
+/.idea/
+/vendor/
+
+/app/cache/data/*
+/app/cache/volt/*
+/app/logs/*
+
+/app/config/application.php
+/app/config/framework_env.php

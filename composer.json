@@ -1,0 +1,22 @@
+{
+    "name": "mrode/home",
+    "type": "project",
+    "require": {
+        "php": ">=7.0.15",
+        "sandex/Phemo": "dev-master",
+        "phalcon/incubator": "dev-master"
+    },
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-0": {
+            "NetTech": "src/NetTech/",
+            "Framework": "framework/"
+        }
+    },
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/Sandex/Phemo.git"
+        }
+    ]
+}
